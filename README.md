@@ -1,5 +1,4 @@
-# Word-Search-Python
-#### Word Search using Parallel Programming in Python
+# Word Search using Parallel Programming in Python
 
 #### [Project Report.pdf](https://github.com/anmolbansal7/Word-Search-Python/files/7789345/PDC.Project.Final.Report.pdf)
 
