@@ -1,0 +1,175 @@
+
+
+So, there I was, giddy with excitement when a high school student (let’s call him Johnny), whose school is smart enough to offer a programming track, asked me for help on one of his first programming assignments.
+
+So nice to be needed! 😁
+
+My excitement, however, quickly turned to disappointment when I saw the assignment. Like SO many other introductory programming classes, the introduction to coding was being done through math and physics problems.
+
+I helped the kid, but 80% of the time, I was helping him understand math, not programming.
+
+I should add that the kid isn’t bad at math at all. Quite good, actually.
+
+A bit frustrated by the experience, I did what any other sane, frustrated person would do: take my frustration to social media. 😂
+
+    DEAR PROGRAMMING TEACHERS,
+
+    PLEASE STOP ruining programming for kids by introducing them to coding through math or physics problems!
+
+The post produced quite a number of sympathetic comments and likes. (Feel free to join on LinkedIn or Twitter.)
+
+There were a couple of disagreements and questions regarding that statement, which seems easier to address in this article than in 140 characters.
+
+So, why do I think it’s so bad?
+All Programming is Math-Based!
+
+Sure, at the core of every computer is math. Really complex math.
+
+But that statement is about as useful as telling a student driver that at the core of every car is an internal combustion engine!
+
+“Get in, Johnny!”
+
+“Before you begin your first drive, keep in mind that when you press the gas pedal, you are activating the process of internal combustion.”
+
+“Internal WHAT?”
+
+“Internal combustion. You see it’s a process that releases energy…”
+
+“Are you going to show me how to drive the car?”
+
+“Yes, of course! But let’s quickly go over this simple 4-stroke engine diagram so you understand what occurs when you press that gas pedal for the first time. First, there is the…”
+
+“FORGET IT! I’LL JUST TAKE UBER! I AM CLEARLY TOO STUPID TO DRIVE!”
+
+😂
+
+Here is the point.
+
+Programming is its own discipline that has its own challenges. You are not doing your students any favors when you throw another complex subject into the mix. This is especially true at the introductory level.
+
+Just like math, programming does not exist in a vacuum. Just like math, programming is more of an applied discipline. You have to have something to apply it to before it’s useful.
+
+But you wouldn’t introduce basic math concepts using terminology and principles from biology, would you? Instead, you would use dividing an apple between friends as your application of the concept of percent.
+
+You have to find something very familiar and relatable to apply programming to as well.
+
+So, the first issue with introducing programming through math is mixing separate subjects into one. When you break the information down to its smaller chunks, it will always be easier to absorb.
+
+It does NOT matter if the student is good at math.
+Leave No Programmer Behind
+
+Here is another problem with the approach of teaching programming through math.
+
+Not everyone who likes programming, likes math. 😱
+
+I know. A SHOCKER!
+
+The issue with fusing those two subjects into one is that you leave a false impression about what this field is about. Those who don’t like math that much, even if they are doing OK in math classes, think that programming isn’t for them.
+
+As expected, now, Johnny reports to me that he and his friends are arguing if programming is just for math people.
+
+How false and what a shame!
+
+Ask an experienced programmer when they last used math for their job, besides for basic arithmetic. The answer will probably be “a long time ago… like in college.”
+A Programming Perspective
+
+Let’s evaluate this “one subject for the price of two” approach from the programming perspective. (Is there any other kind? 😂)
+
+In programming, we have this concept called separation of concerns.
+
+Briefly, it’s a “design principle for separating a computer program into distinct sections, such that each section addresses a separate concern.”
+
+Why is that a good principle to follow?
+
+“The value of separation of concerns is simplifying development and maintenance of computer programs.”
+
+There are specific software development advantages to such designs, but, in a broader sense, I hope you noticed what is at the core: simplifying.
+
+How do we simplify? Usually, by stripping each task to its singular responsibility.
+
+Mixing other responsibilities into that singular task isn’t simply bad for code reuse and maintenance down the line. It’s also just harder to code in the first place!
+
+When we approach writing software, as programmers, we are very aware that, unlike the machines we use, our brains function much better when we stick to one task at a time. Adapt an approach that ignores that basic fact and you are in for very bumpy ride with buggy, unmaintainable software.
+
+The real art of programming is being able to code complex things in a simple to understand, compartmentalized way.
+
+How ironic!
+
+The very first programming experience of many beginners goes against the spirit of one of the well-established software development principles.
+What’s a Good Approach?
+
+So, what’s a good approach then?
+
+Glad you asked. 😊
+
+Story time!
+
+When my son was very young (around 5-6), I zeroed in on my responsibility of teaching him how to swim. I would regularly take him to the local community pool and even got him a few lessons. But a year later, he still couldn’t swim.
+
+That’s when I got the best advice ever: stop trying to teach him breathing techniques and strokes. Just let him have guided fun and games in the water.
+
+And that’s what I did.
+
+The first game was super simple. I would throw a ball next to him and his job would be to get it and throw it back. What fun!
+
+Suddenly, little splashes of water on his face didn’t feel as assaulting anymore. Having to get the ball 2 feet away got him to move in the water and even float for a second or two.
+
+Next, was squatting in the water, immersing your head and waving hello to the other person under the water. He had a blast, laughing the entire time! Ok, I might have been making crazy faces under the water to make him laugh, but all the same!
+
+A couple of months later he was swimming.
+
+As you can sense, my general approach isn’t limited to programming: just figure out what’s fun and engaging. Then, create a programming solution for that!
+
+Are there ANY areas where programming can’t be applied?!
+
+Obviously, what is fun for a 5 year old is very different than what is fun for an 18 or a 40 year old.
+
+For someone who is a mathematician, programming something with math is fun and easy. (See, it wasn’t a knock against math, after all. 😊)
+Syntax First, Logic Second or the Opposite?
+
+At its core, learning programming consists of two things: syntax and logical constructs.
+
+By syntax, I mean something as simple as where to place a comma. By logical constructs, I mean looping, if/else statements, recursion, etc.
+
+It takes time for a beginner to wrap their head around the experience of having nothing work just because they placed a comma in the wrong position.
+
+It certainly takes time to devise solutions to problems by employing logical constructs like how to loop over a list of prices to get the total.
+
+So, which one is best to start with?
+
+I don’t think there is a clear-cut answer to this question, but again, the same principle applies: make it relatively simple.
+
+If you are going to start with syntax, consider teaching something like Javascript, Python, Ruby, or HTML. All of those languages have this in common: it’s easy to get set up quickly and write something that can produce some feedback.
+
+Among them, HTML is probably the easiest to start with. It will give you the needed experience with syntax and establish a familiar environment for when you want to progress to real programming with Javascript.
+
+Generally, getting used to dealing with syntax isn’t difficult or hard, but definitely a step in the process.
+
+For the younger audience (kids), you can start by avoiding the idea of syntax for a bit and start training them to solve problems using logical constructs.
+
+You can use the very popular SCRATCH program, which lets kids drag and drop logical construct blocks like a loop onto the workspace to create all kinds of neat projects and games. They can even share them with others through the SCRATCH web site later to show off their creations.
+
+Here is a quick overview video of SCRATCH from their site:
+
+There wouldn’t be anything wrong with adults playing around with SCRATCH either, but obviously, something more serious like a beginner programming course would probably be more appropriate.
+Summary
+
+Let me give a quick summary of the points in this article:
+
+    Programming isn’t math
+    If you don’t see yourself doing math your whole life, it does NOT mean programming isn’t for you
+    Mixing two unrelated subjects into one, especially when introducing programming, muddies the water for beginners
+    Remember the principle of Separation of Concerns. Apply it to teaching and learning how to code
+    Recognize that, for beginners, syntax and logical structures are two main ideas to get used to
+
+Resources
+
+    Principle of Separation of Concerns
+    SCRATCH Program for learning programming
+    My Tweet about the subject
+    My LinkedIn post about the subject
+
+What do YOU Think?
+
+Those are my thoughts on the subject. I would love to hear about your experience and opinion in the comments below!
+
